@@ -1,2 +1,8 @@
-# Israel-Alert-History-Website
-A simple node.js project that uses PikudHaoref API to retrieve history of alerts
+Git clone https://github.com/MeHatol/Israel-Alert-History-Website
+
+Install Libs: 
+
+npm init -y
+npm install express request-promise
+
+And run node .
